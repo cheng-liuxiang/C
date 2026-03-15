@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ljy12\\Desktop\\VS2022\\test1\\",
+  "WorkspaceRootPath": "C:\\Users\\ljy12\\Desktop\\github\\C\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{695D39ED-061E-4E89-825A-D79DC9B811EF}|test1\\test1.vcxproj|C:\\Users\\ljy12\\Desktop\\VS2022\\test1\\test1\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{695D39ED-061E-4E89-825A-D79DC9B811EF}|test1\\test1.vcxproj|C:\\Users\\ljy12\\Desktop\\github\\C\\test1\\test1\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{695D39ED-061E-4E89-825A-D79DC9B811EF}|test1\\test1.vcxproj|solutionrelative:test1\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.c",
-              "DocumentMoniker": "C:\\Users\\ljy12\\Desktop\\VS2022\\test1\\test1\\\u6E90.c",
+              "DocumentMoniker": "C:\\Users\\ljy12\\Desktop\\github\\C\\test1\\test1\\\u6E90.c",
               "RelativeDocumentMoniker": "test1\\\u6E90.c",
-              "ToolTip": "C:\\Users\\ljy12\\Desktop\\VS2022\\test1\\test1\\\u6E90.c",
+              "ToolTip": "C:\\Users\\ljy12\\Desktop\\github\\C\\test1\\test1\\\u6E90.c",
               "RelativeToolTip": "test1\\\u6E90.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
